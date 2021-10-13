@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marcadora CCN</string>
+    <string name="conector2x2"></string>
+    <string name="titulo">Venta de Conectores Eléctricos Rápidos</string>
+    <string name="descripcionConec2x2">Conector 2 entradas/2 salidas, especial para conexión de luminarias LED
+    voltaje max 220V corriente max 32A</string>
+    <string name="descripcionConec3x6">Conector 3 entradas/6 salidas, especial para empalmes de circuitos monofásicos
+    para cables de 0.08mm2 a 2.5mm2 voltaje max 220V corriente max 32A</string>
+    <string name="descripcionConec2x6">Conector 2 entradas/6 salidas, especial para conexiones de circuitos automotrices
+    para cables de 0.08mm2 a 2.5mm2 voltaje max 220V corriente max 32A</string>
+    <string name="conector2x2_message">Seleccionaste el conector 2 entradas 2 salidas</string>
+    <string name="conector3x6_message">Seleccionaste el conector 3 entradas 6 salidas</string>
+    <string name="conector2x6_message">Seleccionaste el conector 2 entradas 6 salidas</string>
+    <string name="carrito_message">ha seleccionado ir al carrito de compras</string>
+</resources>
